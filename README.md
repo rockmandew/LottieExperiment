@@ -5,8 +5,9 @@ LottieExperimentation
 Using 'Training Files' explore the possibilities of Lottie. Includes: triggers, interactivity such as scroll, loop, timeouts, mouse position and more.
 - [Lottie Files - Usage Documentation](https://lottiefiles.github.io/lottie-player/usage.html)
 - [Lottie Files - Lottie Player Repo](https://github.com/LottieFiles/lottie-player)
-- [Lottie Interactive - Third Party Repo Enabling additional interactions](https://github.com/samuelOsborne/Lottie-interactive)
+- [Lottie Interactive - Third Party Repo By Sam Osborne Enabling additional interactions](https://github.com/samuelOsborne/Lottie-interactive)
 - [Lottie Files Interactivity Documentation](https://lottiefiles.com/interactivity)
+- [Lottie interactivity by LottieFiles](https://github.com/LottieFiles/lottie-interactivity)
 
 ## Making Lotties Interactive 
 Using 'Interactivity-course' module as a course lesson
@@ -19,6 +20,3 @@ Using 'Interactivity-course' module as a course lesson
 - Lesson 05 - Toggle
 - Lesson 06 - Sync to scroll
 - Lesson 07 - Sync to cursor
-
-- [Lottie-interactive library by Sam Osborne](https://github.com/samuelOsborne/Lottie-interactive)
-- [Lottie interactivity by LottieFiles](https://github.com/LottieFiles/lottie-interactivity)
