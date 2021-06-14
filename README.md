@@ -6,6 +6,10 @@ LottieExperimentation
 - [Lottie Files Interactivity Documentation](https://lottiefiles.com/interactivity)
 - [Lottie interactivity by LottieFiles](https://github.com/LottieFiles/lottie-interactivity)
 
+Extra Links:
+https://lottiefiles.github.io/lottie-player/methods.html
+https://github.com/LottieFiles/lottie-interactivity
+
 ## Experimenting with Lottie Interactivity
 Using 'Training Files' explore the possibilities of Lottie. Includes: triggers, interactivity such as scroll, loop, timeouts, mouse position and more.
 
